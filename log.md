@@ -27,8 +27,10 @@ Didn't commit anything since I was using an exerternal website, https://www.w3sc
 **Thoughts**: I'm proud of myself. There was a feature I wanted to add and I was able to figure it out very quickly. There was a stumble in the drinklist exercise, but after looking at the solution I understood what I missed and was able to adjust quickly for the second exercise.
 
 **Link(s) to work**:
+
 Link to repo, for both exercises
 1. https://github.com/salpharre/jQuery-Practice-and-Projects/tree/main/practice/drinkList
+
 Codepen (to see it in action):
 2. https://codepen.io/theEk444r/pen/NWrGxGo
 3. https://codepen.io/theEk444r/pen/PozPZNd
