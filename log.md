@@ -32,5 +32,7 @@ Link to repo, for both exercises
 1. https://github.com/salpharre/jQuery-Practice-and-Projects/tree/main/practice/drinkList
 
 Codepen (to see it in action):
+
 2. https://codepen.io/theEk444r/pen/NWrGxGo
+
 3. https://codepen.io/theEk444r/pen/PozPZNd
