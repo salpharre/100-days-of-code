@@ -36,3 +36,14 @@ Codepen (to see it in action):
 2. https://codepen.io/theEk444r/pen/NWrGxGo
 
 3. https://codepen.io/theEk444r/pen/PozPZNd
+
+### Day 4: Wednesday, October 14th, 2020
+
+**Today's Progress**: 
+  1. Set up basic html with some bootstrap css and a media query for rock-paper-scissors game. 
+
+**Thoughts**: Never used media queries before, glad they're easier then I let myself believe. 
+
+**Link(s) to work**:
+1. https://github.com/salpharre/Rock-Paper-Scissors-Game
+
