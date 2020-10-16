@@ -47,3 +47,13 @@ Codepen (to see it in action):
 **Link(s) to work**:
 1. https://github.com/salpharre/Rock-Paper-Scissors-Game
 
+### Day 5: Thursday, October 15th, 2020
+
+**Today's Progress**:
+1. More jquery practice, preparing for an interview tomorrow
+
+**Thoughts**: jQuery practice was more to get my mind thinking about jquery and to review it for a interview the 16th. Didn't get to work on game today, tomorrow after the interview i will. Also, didn't quite get an hour in today.
+
+**Link(s) to work**: 
+1. https://github.com/salpharre/jQuery-Practice-and-Projects/tree/main/practice
+
