@@ -57,3 +57,12 @@ Codepen (to see it in action):
 **Link(s) to work**: 
 1. https://github.com/salpharre/jQuery-Practice-and-Projects/tree/main/practice
 
+### Day 6: Tuesday, October 20th, 2020
+
+**Today's Progress**: Some functionality practice
+
+**Thoughts**: I would like to say it's the test cases that are slowing me down but it's most likely my code that's the problem. (Note to self: Don't forget to open up the console when looking at test error message, there's a lot more to this onion of a problem!)
+
+**Link(s) to work**: FYI, I'm a night owl so expect this repo to be updated at 2am.
+1. https://github.com/salpharre/technical-coding-practice
+
