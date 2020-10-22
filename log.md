@@ -66,3 +66,11 @@ Codepen (to see it in action):
 **Link(s) to work**: FYI, I'm a night owl so expect this repo to be updated at 2am.
 1. https://github.com/salpharre/technical-coding-practice
 
+### Day 7: Wednesday, October 21st, 2020
+
+**Today's Progress**: Went through 4 - 5 8kyu Codewars problems
+
+**Thoughts**: Doing pretty well. Nice little serotonin injection. Do a couple days worth of Codewars for a couple days and then go up a level. Next week will do Hackerrank and Leetcode. No repo commits today, encountered an algorithm worthy problem in the repo I was using yesterday, didn't really touch it since I was doing Codewars only today. That's a lie, thought about it a little bit after stopped Codewars and wrote out a little bit of code, didn't push it though.
+
+**Link(s) to work**:
+1. N/A
