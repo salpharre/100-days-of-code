@@ -74,3 +74,60 @@ Codepen (to see it in action):
 
 **Link(s) to work**:
 1. N/A
+
+### Day 8: Friday, October 23rd, 2020
+
+**Today's Progress**: ISO8601 date UTC offset research for a project, fullcalendar.io not parsing date correctly. Researched the problem and possibly how to fix it. Researched licenses for github project. 
+
+**Thoughts**: I dreaded working with fullcalendar.io since it gave so many problems last time, but it's easier to understand and wrap my head around the second delve in. Maybe because the pressure to get it working quickly in time to turn in the project is gone OR I guess I learned a lot despite feeling like a failure the first time around. Still unsure it's really as easy as copy-n-paste-ing in license jargon into a file on our repo, going to ask my network. 
+
+**Link(s) to work**:
+1. n/a
+
+### Day  
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
