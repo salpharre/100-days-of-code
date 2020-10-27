@@ -84,13 +84,14 @@ Codepen (to see it in action):
 **Link(s) to work**:
 1. n/a
 
-### Day  
+### Day 9: Monday, October 26th, 2020
 
-**Today's Progress**:
+**Today's Progress**: Fixed the time issue bug in Organize
 
-**Thoughts**:
+**Thoughts**: Glad it was a lot simpler then I thought. But fixing that bug brought up the idea to add abbreviated timezones to the popup, so the user knows what timezone the time is for.
 
 **Link(s) to work**:
+1. no commits, not pushing until another member has finished setting up a new staging branch
 
 ### Day 
 
