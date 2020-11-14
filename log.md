@@ -93,13 +93,14 @@ Codepen (to see it in action):
 **Link(s) to work**:
 1. no commits, not pushing until another member has finished setting up a new staging branch
 
-### Day 
+### Day 10: Friday, October 13th, 2020
 
-**Today's Progress**:
+**Today's Progress**: Continued work setting up mini project to mess around with moment timezones
 
-**Thoughts**:
+**Thoughts**: Busy taking care of myself and applying for jobs so only got less than an hour's work but it's better then nothing. I'm challenging myself by learning how to use react-bootstrap npm package vs the cdn that I used on past react projects, I have to learn that a bit before I can work in the logic for the form but it's something I want to learn so even though it's slow, it'll be worth it in the long run.
 
 **Link(s) to work**:
+1. https://github.com/salpharre/All-Learnt-Tech-Review-and-Practice/tree/main/React/moment
 
 ### Day 
 
