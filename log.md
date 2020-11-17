@@ -102,13 +102,14 @@ Codepen (to see it in action):
 **Link(s) to work**:
 1. https://github.com/salpharre/All-Learnt-Tech-Review-and-Practice/tree/main/React/moment
 
-### Day 
+### Day 11: Monday, October 16th, 2020
 
-**Today's Progress**:
+**Today's Progress**: Finished the visual aspect of project
 
-**Thoughts**:
+**Thoughts**: Decided that learning react-bootstrap wasn't a good choice at the moment, needed to quickly get the visual part of the app set up so could start messing around with momentjs (it's for a bigger project that is supposed to go live in a couple of months). Will come back to react-bootstrap at a later date. Finished the visual aspect today. Will set up the functionality and mess around with moment tomorrow.
 
 **Link(s) to work**:
+1. https://github.com/salpharre/All-Learnt-Tech-Review-and-Practice/tree/main/React/moment
 
 ### Day 
 
