@@ -111,13 +111,14 @@ Codepen (to see it in action):
 **Link(s) to work**:
 1. https://github.com/salpharre/All-Learnt-Tech-Review-and-Practice/tree/main/React/moment
 
-### Day 
+### Day 12: Tuesday, October 17, 2020
 
-**Today's Progress**:
+**Today's Progress**: Skeleton functionality (all functionality except for momentjs) and reviewed and took notes of documentation. And commented out some useEffects I'll need for later and created some empty functions will need when get momentjs working.
 
-**Thoughts**:
+**Thoughts**: Feeling of anticipation when typing out the form functionality, slightly scared I would get it wrong but it was as easy as I remember it. 
 
 **Link(s) to work**:
+1. https://github.com/salpharre/All-Learnt-Tech-Review-and-Practice/tree/main/React
 
 ### Day 
 
