@@ -120,18 +120,22 @@ Codepen (to see it in action):
 **Link(s) to work**:
 1. https://github.com/salpharre/All-Learnt-Tech-Review-and-Practice/tree/main/React
 
-### Day 
+### Day 13: Monday, November 30, 2020
 
-**Today's Progress**:
+**Today's Progress**: Tried to logically pseudocode a code challenge where it takes in two date strings and returns an array of the months in between the two without any duplications.
 
-**Thoughts**:
-
-**Link(s) to work**:
-
-### Day 
-
-**Today's Progress**:
-
-**Thoughts**:
+**Thoughts**: Pseudocoded it so it would complete 1 out of 3 test cases/example inputs but hit a wall and stopped for the day.
 
 **Link(s) to work**:
+Made a folder in here: https://github.com/salpharre/technical-coding-practice but nothing was committed as I was writing out the psuedocode on a notebook.
+
+### Day 14: Tuesday, December 1, 2020
+
+**Today's Progress**: Added an if statment that would make another of the test examples to pass. Created another js file to try using momentjs to get the result I want.
+
+**Thoughts**: After a couple hours of running my mind into circles trying to get the last example input to pass, I scrapped it. And decided to attempt it using momentjs but by that time my brain was exhausted so decided to stop for today and work on other projects.
+
+**Link(s) to work**:
+There's a bunch of notes written out on pages of a notebook (filled mostly of scribbles as one line of thought didn't work) but the compiled and most important notes and psuedocode is committed here: https://github.com/salpharre/technical-coding-practice
+
+
