@@ -138,4 +138,12 @@ Made a folder in here: https://github.com/salpharre/technical-coding-practice bu
 **Link(s) to work**:
 There's a bunch of notes written out on pages of a notebook (filled mostly of scribbles as one line of thought didn't work) but the compiled and most important notes and psuedocode is committed here: https://github.com/salpharre/technical-coding-practice
 
+### Day 15: Wednesday, December 9, 2020
+
+**Today's Progress**: Did three hackerrank problems without help
+
+**Thoughts**: They were in the easy tier but yah know, gotta take the wins
+
+**Link(s) to work**: No commits, as they were HackerRank problems
+
 
