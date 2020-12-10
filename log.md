@@ -140,7 +140,7 @@ There's a bunch of notes written out on pages of a notebook (filled mostly of sc
 
 ### Day 15: Wednesday, December 9, 2020
 
-**Today's Progress**: Did three hackerrank problems without help
+**Today's Progress**: Did three hackerrank problems without help, four with a little help
 
 **Thoughts**: They were in the easy tier but yah know, gotta take the wins
 
