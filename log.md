@@ -146,4 +146,12 @@ There's a bunch of notes written out on pages of a notebook (filled mostly of sc
 
 **Link(s) to work**: No commits, as they were HackerRank problems
 
+### Day 16: Wednesday, December 30, 2020
+
+**Today's Progress**: Created a "main" branch on Note-Taker repo, an old buggy project I'm going to fix. Presently, uses a static JSON file to save notes to but changing it to MySQL as a review exercise. Will do all changes on "main" branch and then just change the origin branch to "main" and deploy it on heroku or maybe netlify.
+
+**Thoughts**: Going to review MySQL first using Coding with Mosh tutorial on youtube and then apply what i learned to my project.
+
+**Link(s) to work**: https://github.com/salpharre/Note-Taker/tree/main
+
 
