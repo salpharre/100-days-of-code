@@ -154,4 +154,10 @@ There's a bunch of notes written out on pages of a notebook (filled mostly of sc
 
 **Link(s) to work**: https://github.com/salpharre/Note-Taker/tree/main
 
+### Day 17: Thursday, January 21, 2020
+
+Brainstormed how to DRY up manage page on Organize. Thinking to extrapolate out functions that are prepetitive and put into a seperate file that is then imported into the page where values are passed to it. Current lines of code of mammoth manage page: 689 and that doesn't include the html/jsx which if included comes to a whopping 936 pieces of code.
+
+Nothing to show for it, just was typing up brainstorming. 
+
 
