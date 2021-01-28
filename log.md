@@ -160,4 +160,8 @@ Brainstormed how to DRY up manage page on Organize. Thinking to extrapolate out 
 
 Nothing to show for it, just was typing up brainstorming. 
 
+### Day 18: Tuesday, January 26, 2020
 
+Completed three algorithm questions out of https://github.com/salpharre/technical-coding-practice , hadn't feeling myself since the weekend so despite it being frustrating, I completed three questions and felt a little better after the high.
+
+Commits can be found here: https://github.com/salpharre/technical-coding-practice
