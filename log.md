@@ -154,14 +154,22 @@ There's a bunch of notes written out on pages of a notebook (filled mostly of sc
 
 **Link(s) to work**: https://github.com/salpharre/Note-Taker/tree/main
 
-### Day 17: Thursday, January 21, 2020
+### Day 17: Thursday, January 21, 2021
 
 Brainstormed how to DRY up manage page on Organize. Thinking to extrapolate out functions that are prepetitive and put into a seperate file that is then imported into the page where values are passed to it. Current lines of code of mammoth manage page: 689 and that doesn't include the html/jsx which if included comes to a whopping 936 pieces of code.
 
 Nothing to show for it, just was typing up brainstorming. 
 
-### Day 18: Tuesday, January 26, 2020
+### Day 18: Tuesday, January 26, 2021
 
 Completed three algorithm questions out of https://github.com/salpharre/technical-coding-practice , hadn't feeling myself since the weekend so despite it being frustrating, I completed three questions and felt a little better after the high.
 
 Commits can be found here: https://github.com/salpharre/technical-coding-practice
+
+### Day 19: Thursday, January 28, 2021
+
+After that embarassing html and css test question on a tech assessment I took on the 27th, will be reviewing html and css and learning CSS Grid while also doing the JavaScript30 challenge/class. (I will learn how to make four boxes inside of each other!). Also another embarassing thing is I misread a question: "what do you do if you run out of time on a technical problem?" and I thought it mean a tech assessment and so I was like "oh um, just write what I would have done in the readme" but really this was referring to a technical problem at work and I'M JUST LAUGHING AT MYSELF PFFT HAHAHAHAHAHAHA. Oh man. That assessment was just so sad. xD
+
+Today, I did a speed review on w3schools and then started the CSS Grid class by downloading firefox for developers, copy and pasting in the first exercise into my own practice repo and [watched/followed along to the first video (did I do this today? delete this bracket msg if didn't]
+
+Commits: https://github.com/salpharre/Practice
