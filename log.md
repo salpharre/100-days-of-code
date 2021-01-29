@@ -170,6 +170,6 @@ Commits can be found here: https://github.com/salpharre/technical-coding-practic
 
 After that embarassing html and css test question on a tech assessment I took on the 27th, will be reviewing html and css and learning CSS Grid while also doing the JavaScript30 challenge/class. (I will learn how to make four boxes inside of each other!). Also another embarassing thing is I misread a question: "what do you do if you run out of time on a technical problem?" and I thought it mean a tech assessment and so I was like "oh um, just write what I would have done in the readme" but really this was referring to a technical problem at work and I'M JUST LAUGHING AT MYSELF PFFT HAHAHAHAHAHAHA. Oh man. That assessment was just so sad. xD
 
-Today, I did a speed review on w3schools and then started the CSS Grid class by downloading firefox for developers, copy and pasting in the first exercise into my own practice repo and [watched/followed along to the first video (did I do this today? delete this bracket msg if didn't]
+Today, I did a speed review on w3schools and then started the CSS Grid class by downloading firefox for developers, copy and pasting in the first exercise into my own practice repo.
 
 Commits: https://github.com/salpharre/Practice
